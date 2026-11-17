@@ -124,7 +124,7 @@ The codebase strictly enforces modular separation of concerns:
 ### 1. Prerequisites & Installation
 Ensure Python 3.11 or higher is installed:
 ```bash
-git clone https://github.com/your-org/induspredict-ai.git
+git clone https://github.com/junairafatimaallalli-collab/IndusPredict-AI-.git
 cd "indusPredict AI"
 
 # Install dependencies
